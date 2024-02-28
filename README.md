@@ -4,6 +4,8 @@
 
 ## 🎓 Exploring Advanced NLP Techniques in IBM Advance AI @ Infinite Learning Course
 
+## Mentee Assignment from IBM Advance AI @ Infinite Learning Course The Art of Prompt Engineering from CognitiveClass.ai
+
 **Name**: Adi Karawinata Satyanegara
 
 **Program**: IBM Advanced AI 🌟
